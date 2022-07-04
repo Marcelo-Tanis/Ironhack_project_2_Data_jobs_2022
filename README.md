@@ -17,8 +17,9 @@ Fontes de pesquisa:
    
    O projeto foi desenvolvido em duas partes.
    
+   
    1) A primeira parte realizada na plataforma jupyter notebook, na linguagem python, e seguindo os princípios 'data pipeline', 
-   possibilitando a conexão com a plataforma SQL de banco de dados. Após a extração e transformação, que incluiu limpeza, tratamento e manipulação do data set, restaram 211 amostras de emprego ao redor do mundo a serem utilizadas como referência.  As seguintes tabelas do data set foram as relevantes para posterior análise gráfica:
+   possibilitando a conexão com a plataforma SQL de banco de dados. s qApós a extração e a transformação, que incluiu limpeza, tratamento e manipulação do data set, restaram 211 amostras de emprego ao redor do mundo a serem utilizadas como referência.  As seguintes tabelas do data set foram as relevantes para posterior análise gráfica:
    
    *job_title - tipo de especialização na área de dados
    
@@ -36,11 +37,14 @@ Fontes de pesquisa:
    *monthly_salary_usd - salário mensal oferecido convertido para o dólar
    
    *work_year - o ano em que houve a contratação: 2020 e 2021/2022
-               Obs. 2021/2022 encontram-se na mesma linha pois o data set utilizado ainda vem sendo atualizado no Kaggle.
+                Os anos de 2021/2022 encontram-se na mesma linha pois o data set utilizado ainda vem sendo atualizado no Kaggle.
                
+               
+     obs. Nessa primeira parte do projeto foi  também criado um código aplicando a metodologia web scrapping, que extrai uma lista do site de buscas de empregos Indeed (www.indeed.com), com as mais recentes vagas no cargo de analista de dados nível júnior. 
    
-  
-   2) A segunda parte foi desenvolvida na plataforma gráfica Tableau, para a visualização, análise de dados, e a busca das respostas para as perguntas feitas no decorrer da história.
+   
+   
+   2) A segunda parte do projeto foi desenvolvida na plataforma gráfica Tableau, para a visualização, análise de dados, e a busca das respostas para as perguntas feitas no decorrer da história.
    
    obs:
    * Devido ao grande numero de sub-categorias de empregos(lead, manager, consultant, etc.), a análise foi estruturada em quatro tipos de especialização:
