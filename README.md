@@ -19,7 +19,7 @@ Fontes de pesquisa:
    
    
    1) A primeira parte realizada na plataforma jupyter notebook, na linguagem python, e seguindo os princípios 'data pipeline', 
-   possibilitando a conexão com a plataforma SQL de banco de dados. s qApós a extração e a transformação, que incluiu limpeza, tratamento e manipulação do data set, restaram 211 amostras de emprego ao redor do mundo a serem utilizadas como referência.  As seguintes tabelas do data set foram as relevantes para posterior análise gráfica:
+   possibilitando a conexão com a plataforma SQL de banco de dados. Após a extração e a transformação do data set, que incluiu tratamento e limpeza, restaram 211 amostras de emprego ao redor do mundo a serem utilizadas como referência.  As seguintes tabelas do data set foram as relevantes para posterior análise gráfica:
    
    *job_title - tipo de especialização na área de dados
    
