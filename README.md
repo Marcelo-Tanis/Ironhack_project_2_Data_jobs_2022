@@ -48,7 +48,7 @@ Fontes de pesquisa:
    
    * Alguns outliers (valores salariais muito distantes da média) foram removidos, assim como as medianas salariais foram utilizadas ao invés das médias para aumentar a precisão dos resultados.
    
-   * Os países citados estão em destaque não por oferecerem mais oferta de emprego que outros com talvez mais vagas disponíveis, mas sim por estarem abertas a contratação também de estrangeiros, por isso uma maior relevância a nível mundial
+   * Os países citados estão em destaque não por oferecerem mais oferta de emprego que outros com talvez mais vagas disponíveis, mas sim por estarem abertas a contratação também de estrangeiros, por isso uma maior relevância a nível mundial. Da mesma forma as respectivas médias salariais, que variam proporcionalmente com o custo de vida de cada local.
    
                                               ----------------------------------------------------------------
    
