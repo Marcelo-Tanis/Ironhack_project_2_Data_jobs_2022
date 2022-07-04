@@ -59,7 +59,7 @@ Fontes de pesquisa:
      Um grande amigo, insatisfeito com a sua atual profissão, e não descartando a ideia de se mudar para o exterior e, sabendo que não tenho mais procurado os amigos pois estou mergulhado no bootcamp Ironhack, me convida para tomar um  café e solicitar informações sobre a minha futura nova profissão, que é a de analista de dados.   
      Então ele faz uma série de 9 perguntas. A primeira segue abaixo,
    
-   PERGUNTA 1) Vi muitas especializações nessa área de dados e não entendi nada, pode me dar uma rápida noção?
+   PERGUNTA 1) Vi muitas especializações nessa área de dados e não entendi nada, pode me dar uma rápida noção
    
    Seguindo o bom senso de qualquer análise fui, antes do encontro, fazer uma pesquisa sobre o tema, já imaginando que seria essa uma possível pergunta inicial:
    
@@ -68,7 +68,7 @@ Fontes de pesquisa:
    *Engenheiro de dados: Especializado em estrutura de dados. Prepara o material e a base de códigos para as outras áreas de dados.
    *Analista de dados: coleta, trata, analisa os dados, e busca soluções de acordo com as análises.
    *Cientista de dados: trabalha com uma maior gama de informações.Uma visão mais macro, mais planejamento do que a análise imediata em si.
-   *Engeheiro de machine learning: trabalha no ramo da inteligência artificial. Atendimento virtual ao cliente é um exemplo.
+   *Engenheiro de machine learning: trabalha no ramo da inteligência artificial. o desenvolvimento do atendimento virtual ao cliente é um exemplo.
    
    
    
