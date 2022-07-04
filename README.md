@@ -2,7 +2,7 @@
  
 Objetivo:
 
-   Este projeto tem como foco apresentar aos interessados ou estudantes dedicados à formação em ciência de dados e em suas diversas especialidades, um resumido cenário geral das oportunidades de empregos ao redor do mundo com as respectivas faixas salariais da profissão, tomando como referência as informações adquiridas entre peíodo do ano de 2020 até o momento.
+   Este projeto tem como foco apresentar aos interessados ou estudantes dedicados à formação em ciência de dados e em suas diversas especialidades, um resumido cenário geral das oportunidades de emprego ao redor do mundo com as respectivas faixas salariais da profissão, tomando como referência as informações adquiridas entre período do ano de 2020 até o momento.
    Ele se baseia em uma história fictícia porém não menos real, que formula perguntas e respostas sobre o tema em questão.
    
 Fontes de pesquisa:
@@ -39,6 +39,7 @@ Fontes de pesquisa:
                Obs. 2021/2022 encontram-se na mesma linha pois o data set utilizado ainda vem sendo atualizado no Kaggle.
                
    
+  
    2) A segunda parte foi desenvolvida na plataforma gráfica Tableau, para a visualização, análise de dados, e a busca das respostas para as perguntas feitas no decorrer da história.
    
    obs:
@@ -60,7 +61,7 @@ Fontes de pesquisa:
    
    PERGUNTA 1) Vi muitas especializações nessa área de dados e não entendi nada, pode me dar uma rápida noção?
    
-   Seguindo o bom senso de qualquer análise fui, antes do encontro, fazer uma pesquisa sobre o tema, ja imaginando que seria essa uma possível pergunta inicial:
+   Seguindo o bom senso de qualquer análise fui, antes do encontro, fazer uma pesquisa sobre o tema, já imaginando que seria essa uma possível pergunta inicial:
    
    Resumidamente:
    
@@ -71,7 +72,7 @@ Fontes de pesquisa:
    
    
    
-   * As outras 8 perguntas assim como as respostas estão descritas na apresentação gráfica com o Tableau.Segue o link abaixo:
+   * As outras 8 perguntas assim como as respostas estão descritas na apresentação gráfica com o Tableau. Segue o link abaixo:
    
    https://public.tableau.com/app/profile/marcelo5344/viz/IRONHACK_PROJECT2-Data_Jobs_jobs_project/Story9-JOBSLOCATIONSHIGHLIGTHS?publish=yes   
    
