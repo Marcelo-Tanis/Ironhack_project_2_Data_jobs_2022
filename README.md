@@ -50,7 +50,7 @@ Fontes de pesquisa:
    
    * Os países citados estão em destaque não por oferecerem mais oferta de emprego que outros com talvez mais vagas disponíveis, mas sim por estarem abertas a contratação também de estrangeiros, por isso uma maior relevância a nível mundial. Da mesma forma as respectivas médias salariais, que variam proporcionalmente com o custo de vida de cada local.
    
-                                              ----------------------------------------------------------------
+   
    
    Historia:
    
