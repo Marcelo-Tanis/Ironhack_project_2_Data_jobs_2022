@@ -40,7 +40,7 @@ Fontes de pesquisa:
                 Os anos de 2021/2022 encontram-se na mesma linha pois o data set utilizado ainda vem sendo atualizado no Kaggle.
                
                
-     obs. Nessa primeira parte do projeto foi  também criado um código aplicando a metodologia web scrapping, que extrai uma lista do site de buscas de empregos Indeed (www.indeed.com), com as mais recentes vagas no cargo de analista de dados nível júnior. 
+     obs. Nessa primeira parte do projeto foi  também criado um código aplicando a metodologia web scrapping, que extrai uma lista do site de buscas de empregos Indeed (www.indeed.com), com as mais recentes vagas no cargo de analista de dados nível júnior no Brasil. 
    
    
    
