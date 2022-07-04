@@ -2,7 +2,7 @@
  
 Objetivo:
 
-   Este projeto tem como foco apresentar aos interessados ou estudantes dedicados à formação em ciência de dados e em suas diversas especialidades, com o intuito de passar um resumido cenário geral das oportunidades de empregos ao redor do mundo com as respectivas faixas salariais da profissão, tomando como referência as informações adquiridas entre peíodo do ano de 2020 até o momento.
+   Este projeto tem como foco apresentar aos interessados ou estudantes dedicados à formação em ciência de dados e em suas diversas especialidades, um resumido cenário geral das oportunidades de empregos ao redor do mundo com as respectivas faixas salariais da profissão, tomando como referência as informações adquiridas entre peíodo do ano de 2020 até o momento.
    Ele se baseia em uma história fictícia porém não menos real, que formula perguntas e respostas sobre o tema em questão.
    
 Fontes de pesquisa:
