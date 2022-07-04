@@ -68,7 +68,7 @@ Fontes de pesquisa:
    *Engenheiro de dados: Especializado em estrutura de dados. Prepara o material e a base de códigos para as outras áreas de dados.
    *Analista de dados: coleta, trata, analisa os dados, e busca soluções de acordo com as análises.
    *Cientista de dados: trabalha com uma maior gama de informações.Uma visão mais macro, mais planejamento do que a análise imediata em si.
-   *Engenheiro de machine learning: trabalha no ramo da inteligência artificial. o desenvolvimento do atendimento virtual ao cliente é um exemplo.
+   *Engenheiro de machine learning: trabalha no ramo da inteligência artificial. O desenvolvimento do atendimento virtual ao cliente é um exemplo.
    
    
    
